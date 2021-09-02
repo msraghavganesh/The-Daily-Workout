@@ -3,4 +3,4 @@ A webapp used to correct yoga posture.  For backend: Flask . For frontend: HTML,
 
 SAE WebDev Task:
 
-Run it in your local host, Enjoy the web application and many hidden features :)
+Run it in your local host, Enjoy the web application and explore many hidden features :)
